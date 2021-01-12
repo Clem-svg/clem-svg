@@ -1,6 +1,6 @@
 ### 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 <br>
-🌱 I’m currently learning:
+🚀 I’m currently learning:
 <br>
 <ul>
   <li>Ruby on Rails</li>
