@@ -1,7 +1,13 @@
 ### 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 <br>
 <br>
-🌱 I’m currently learning Ruby on Rails and JavaScript 
+🌱 I’m currently learning:
+<br>
+<ul>
+  <li>Ruby on Rails</li>
+  <li>JavaScript </li>
+  <li>React</li>
+ </ul>
 
 
 <!--
