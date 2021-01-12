@@ -2,8 +2,6 @@
 <br>
 
 🌱 I’m currently learning :
-<br>
-<br>
 
 <ul>
   <li>Ruby on Rails</li>
