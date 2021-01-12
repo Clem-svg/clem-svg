@@ -1,4 +1,9 @@
 ### Hi there 👋
+<br>
+<center>🌒🌓🌔🌕🌖🌗🌘</center>
+<br>
+🌱 I’m currently learning Ruby on Rails and JavaScript 
+
 
 <!--
 **Clem-svg/clem-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
