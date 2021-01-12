@@ -1,16 +1,20 @@
 ### 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 <br>
-🚀 Web Developer to be
-<br>
-<br>
+
 🌱 I’m currently learning :
 <br>
 <br>
+
 <ul>
   <li>Ruby on Rails</li>
   <li>JavaScript </li>
   <li>React JS</li>
  </ul>
+ 
+<br>
+<br>
+ 🚀 Web Developer to be
+
 
 
 <!--
