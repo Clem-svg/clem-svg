@@ -1,11 +1,13 @@
 ### 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 <br>
-🚀 I’m currently learning:
+🚀 Web Developer to be
+<br>
+🌱 I’m currently learning :
 <br>
 <ul>
   <li>Ruby on Rails</li>
   <li>JavaScript </li>
-  <li>React</li>
+  <li>React JS</li>
  </ul>
 
 
