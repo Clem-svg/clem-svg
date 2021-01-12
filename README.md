@@ -1,4 +1,4 @@
-### 🌒🌓🌔🌕🌖🌗🌘
+### 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 <br>
 <br>
 🌱 I’m currently learning Ruby on Rails and JavaScript 
