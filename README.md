@@ -1,5 +1,6 @@
 ### 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 <br>
+Hello !
 
 🌱 I’m currently learning :
 
@@ -11,6 +12,8 @@
  
 <br>
  🚀 Web Developer to be
+ 
+ 💬 She/Her
 
 
 
