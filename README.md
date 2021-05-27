@@ -3,12 +3,17 @@
 Hello !
 <br>
 
+✨Working with :
+
+<ul>
+  <li>HTML, CSS, SASS, Ruby, JavaScript</li>
+  <li>Ruby on Rails, React JS, Next JS </li>
+ </ul>
+
 🌱 I’m currently learning :
 
 <ul>
-  <li>Ruby on Rails</li>
-  <li>JavaScript </li>
-  <li>React JS</li>
+  <li>PHP/Symphony</li>
  </ul>
  
 <br>
