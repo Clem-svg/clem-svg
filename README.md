@@ -18,7 +18,7 @@ Hello !
  
 <br>
  🚀 Web Developer to be
- <br>
+
  💬 She/Her
 
 
