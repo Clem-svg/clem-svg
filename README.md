@@ -6,18 +6,18 @@ Hello !
 ✨Working with :
 
 <ul>
-  <li>HTML, CSS, SASS, Ruby, JavaScript</li>
-  <li>Ruby on Rails, React JS, Next JS </li>
+  <li>HTML, CSS, SASS, Ruby, JavaScript, PHP</li>
+  <li>Ruby on Rails, React JS, Next JS, Symfony </li>
  </ul>
 
 🌱 I’m currently learning :
 
 <ul>
-  <li>PHP/Symphony</li>
+  <li>Redux</li>
  </ul>
  
 <br>
- 🚀 Web Developer to be
+ 🚀 Web Developer
 
  💬 She/Her
 
